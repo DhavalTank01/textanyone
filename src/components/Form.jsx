@@ -1,4 +1,5 @@
 import React from "react";
+import whatsapp from "../images/whatsapp.png";
 
 const Form = ({ handelSubmit, handelOnChange }) => {
   return (
@@ -7,7 +8,7 @@ const Form = ({ handelSubmit, handelOnChange }) => {
         <div className="form-box">
           <div className="card p-3">
             <div className="d-flex align-item-center justify-content-center">
-              <img src="whatsapp.png" width={150} alt="" />
+              <img src={whatsapp} width={150} alt="" />
             </div>
             <form onSubmit={handelSubmit} className="was-validated">
               <div className="mb-3">
