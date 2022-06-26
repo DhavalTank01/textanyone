@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textanyone/static/css/main.542a7d0d.css",
+    "main.js": "/textanyone/static/js/main.67e5e52e.js",
+    "index.html": "/textanyone/index.html",
+    "main.542a7d0d.css.map": "/textanyone/static/css/main.542a7d0d.css.map",
+    "main.67e5e52e.js.map": "/textanyone/static/js/main.67e5e52e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542a7d0d.css",
+    "static/js/main.67e5e52e.js"
+  ]
+}
