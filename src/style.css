@@ -1,0 +1,21 @@
+html,
+body {
+  background-color: #a1ff96 !important;
+}
+.card,
+.navBar,
+.footer {
+  background-color: #29a71a !important;
+  color: white !important;
+}
+.form-label {
+  color: white !important;
+}
+.form-box {
+  width: 50%;
+}
+@media screen and (max-width: 600px) {
+  .form-box {
+    width: 100%;
+  }
+}
