@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/textanyone/static/css/main.542a7d0d.css",
-    "main.js": "/textanyone/static/js/main.67e5e52e.js",
+    "main.js": "/textanyone/static/js/main.04758dc3.js",
+    "static/media/whatsapp.png": "/textanyone/static/media/whatsapp.df7ba82dfa8317f14421.png",
     "index.html": "/textanyone/index.html",
     "main.542a7d0d.css.map": "/textanyone/static/css/main.542a7d0d.css.map",
-    "main.67e5e52e.js.map": "/textanyone/static/js/main.67e5e52e.js.map"
+    "main.04758dc3.js.map": "/textanyone/static/js/main.04758dc3.js.map"
   },
   "entrypoints": [
     "static/css/main.542a7d0d.css",
-    "static/js/main.67e5e52e.js"
+    "static/js/main.04758dc3.js"
   ]
 }
